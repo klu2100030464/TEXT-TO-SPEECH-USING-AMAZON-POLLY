@@ -1,0 +1,7 @@
+<speak>
+Hi! I'm Matthew. I will read any text you type here.
+<break time="2s"/>
+you are learning AWS
+<break time="5s"/>
+you are learning amazon polly
+</speak>
